@@ -1,0 +1,4 @@
+dependency1 list
+
+Nguyen Thi Minh Khai
+Truong Chinh
